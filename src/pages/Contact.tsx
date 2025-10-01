@@ -78,14 +78,14 @@ const Contact = () => {
                     <Mail className="w-5 h-5 text-primary mt-0.5" />
                     <div>
                       <p className="font-medium">Email</p>
-                      <p className="text-sm text-muted-foreground">info@aaktek.com</p>
+                      <p className="text-sm text-muted-foreground">kreetrout@gmail.com</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-3">
                     <Phone className="w-5 h-5 text-primary mt-0.5" />
                     <div>
                       <p className="font-medium">Phone</p>
-                      <p className="text-sm text-muted-foreground">+1 (555) 123-4567</p>
+                      <p className="text-sm text-muted-foreground">+91 7970908253</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-3">
@@ -93,7 +93,7 @@ const Contact = () => {
                     <div>
                       <p className="font-medium">Office</p>
                       <p className="text-sm text-muted-foreground">
-                        123 Tech Street, Silicon Valley, CA 94025
+                        Ranchi, Kolkata
                       </p>
                     </div>
                   </div>
@@ -102,7 +102,7 @@ const Contact = () => {
 
               <Card className="bg-gradient-to-br from-primary/10 to-accent/10 border-primary/20">
                 <CardHeader>
-                  <CardTitle>Business Hours</CardTitle>
+                  <CardTitle>Customer Support Hours</CardTitle>
                 </CardHeader>
                 <CardContent className="space-y-2 text-sm">
                   <div className="flex justify-between">
